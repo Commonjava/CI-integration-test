@@ -20,6 +20,10 @@
     <url>https://github.com/commonjava/CI-integration-test</url>
   </scm>
 
+  <properties>
+    <scribble>scrobble</scribble>
+  </properties>
+
   <dependencyManagement>
     <dependencies>
       <dependency>
