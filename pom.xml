@@ -21,7 +21,7 @@
   </scm>
 
   <properties>
-    <scribble>scrobble</scribble>
+    <scribble>blat</scribble>
   </properties>
 
   <dependencyManagement>
