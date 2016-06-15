@@ -21,7 +21,7 @@
   </scm>
 
   <properties>
-    <scribble>argle bargle</scribble>
+    <scribble>fnord</scribble>
   </properties>
 
   <dependencyManagement>
