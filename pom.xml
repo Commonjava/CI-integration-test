@@ -7,8 +7,7 @@
     <artifactId>commonjava</artifactId>
     <version>11</version>
   </parent>
-
-  <artifactId>CI-integration-test</artifactId>
+<artifactId>CI-integration-test</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>CI-integration-test</name>
