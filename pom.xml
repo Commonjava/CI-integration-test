@@ -21,10 +21,6 @@
     <url>https://github.com/commonjava/CI-integration-test</url>
   </scm>
 
-  <properties>
-    <scribble>;aslkfdja</scribble>
-  </properties>
-
   <dependencyManagement>
     <dependencies>
       <dependency>
